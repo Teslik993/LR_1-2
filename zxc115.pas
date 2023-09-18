@@ -1,4 +1,4 @@
-﻿program zxc3;
+﻿program zad9;
 var a,b,c,x:int64;
 begin
 writeln('Введите трёхзначное число');

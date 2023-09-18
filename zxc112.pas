@@ -1,4 +1,4 @@
-﻿program DOOM;
+﻿program zad6;
 var S,a,b,c,P:real;
 begin
   writeln('введите значение сторон треугольника');

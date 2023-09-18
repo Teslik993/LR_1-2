@@ -1,4 +1,4 @@
-﻿program zxc;
+﻿program zad7;
 var a,b:int64;
 begin
 writeln('Введите число');

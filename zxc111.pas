@@ -1,4 +1,4 @@
-﻿program Ru;
+﻿program zad1;
 var S,R:real;
 begin
   writeln('введите радиус');
